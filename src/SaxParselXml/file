@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<сity name="Київ">
+    <streetOne>
+        <home >Родина Щеглюків</home>
+        <home >Родина Денисюків</home>
+    </streetOne>
+    <streetTwo>
+        <home >Родина Макот</home>
+        <home >Родина Олефіренків</home>
+        <home >Родина Святогорів</home>
+    </streetTwo>
+</сity>
